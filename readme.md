@@ -18,3 +18,7 @@ queria usar stack pois ele dá uma maior legibilidade e tentei fazer com que qua
 
 porem quando eu queria pegar o parametro na pagina Main usando o navigation.getParam('user') q a pagina de login passava
 ele dizia que navigation.getParam não era uma função e estava undefined
+
+
+
+Adicionei a biblioteca Socket.io para o backend poder informar ao front quando acontecesse um match
