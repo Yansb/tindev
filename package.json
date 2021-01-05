@@ -2,7 +2,7 @@
   "dependencies": {
     "@react-navigation/native": "^5.1.4",
     "@react-navigation/stack": "^5.2.9",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "mongoose": "^5.9.6",
     "react-router-dom": "^5.1.2"
